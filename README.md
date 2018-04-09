@@ -12,3 +12,4 @@ https://github.com/KarinaSadykhova/hw6/blob/master/3.jpg
 https://github.com/KarinaSadykhova/hw6/blob/master/4.png
 ##### Begin vs Start
 https://github.com/KarinaSadykhova/hw6/blob/master/5.png
+Глаголы "begin" и "start" могут употребляться со словом "work". То есть "start work" и "begin work" - приступить к работе. Однако слово "family" может употребляться только со словом "start" - start a family - создать семью.
